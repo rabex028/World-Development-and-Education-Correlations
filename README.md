@@ -2,7 +2,7 @@
 
 ## Welcome
 
-The purpose of this application is to allow users to interactively explore associations between reading, science, and math scores and how they correspond to various indicators of development within a country. Users can adjust education scores for a hypothetical country and predictions will be made about that country's GDP, labor force participation, military expenditure, and other metrics of development. Predictions are made by using multiple regression models that rely mostly on gamma distributions. If you would like more information on the regression models, please view the Diagnostics tab located at the top of this screen.
+The purpose of this application is to allow users to interactively explore associations between reading, science, and math scores and how they correspond to various indicators of development within a country. Users can adjust education scores for a hypothetical country and predictions will be made about that country's GDP, labor force participation, military expenditure, and other metrics of development. Predictions are made by using multiple regression models that rely mostly on gamma distributions. If you would like more information on the regression models, please view the Diagnostics tab located at the top of the app's screen.
 
 ## About the Data
 
