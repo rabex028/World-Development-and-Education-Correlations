@@ -1,0 +1,749 @@
+"","Country.Name","Country.Code","Indicator.Name","Indicator.Code","X2015","mathScores","readingScores","scienceScores"
+"76113","Albania","ALB","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",13035155128.1913,413.157,405.2588,427.225
+"76294","Albania","ALB","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",2.3,413.157,405.2588,427.225
+"76344","Albania","ALB","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",55.7000007629395,413.157,405.2588,427.225
+"76361","Albania","ALB","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,413.157,405.2588,427.225
+"76370","Albania","ALB","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",78.2031463414634,413.157,405.2588,427.225
+"76445","Albania","ALB","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.16760128654391,413.157,405.2588,427.225
+"76587","Albania","ALB","Number of infant deaths","SH.DTH.IMRT",434,413.157,405.2588,427.225
+"76648","Albania","ALB","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",17.93662454,413.157,405.2588,427.225
+"76837","Albania","ALB","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.9,413.157,405.2588,427.225
+"76904","Albania","ALB","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",73.1673714847592,413.157,405.2588,427.225
+"77017","Albania","ALB","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",4.3,413.157,405.2588,427.225
+"77688","Algeria","DZA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",189772334940.908,359.6062,349.8593,375.7451
+"77869","Algeria","DZA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.4,359.6062,349.8593,375.7451
+"77919","Algeria","DZA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",NA,359.6062,349.8593,375.7451
+"77936","Algeria","DZA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,359.6062,349.8593,375.7451
+"77945","Algeria","DZA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.8552926829268,359.6062,349.8593,375.7451
+"78020","Algeria","DZA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",6.27421002746322,359.6062,349.8593,375.7451
+"78162","Algeria","DZA","Number of infant deaths","SH.DTH.IMRT",20792,359.6062,349.8593,375.7451
+"78223","Algeria","DZA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",35.56453306,359.6062,349.8593,375.7451
+"78412","Algeria","DZA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.6,359.6062,349.8593,375.7451
+"78479","Algeria","DZA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",22.6002779039223,359.6062,349.8593,375.7451
+"78592","Algeria","DZA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",3.1,359.6062,349.8593,375.7451
+"85563","Argentina","ARG","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",455453204462.872,409.0333,425.3031,432.2262
+"85744","Argentina","ARG","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",6.5,409.0333,425.3031,432.2262
+"85794","Argentina","ARG","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",NA,409.0333,425.3031,432.2262
+"85811","Argentina","ARG","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,409.0333,425.3031,432.2262
+"85820","Argentina","ARG","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",76.2930243902439,409.0333,425.3031,432.2262
+"85895","Argentina","ARG","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.864722840014817,409.0333,425.3031,432.2262
+"86037","Argentina","ARG","Number of infant deaths","SH.DTH.IMRT",7751,409.0333,425.3031,432.2262
+"86098","Argentina","ARG","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",13.44396548,409.0333,425.3031,432.2262
+"86287","Argentina","ARG","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.6,409.0333,425.3031,432.2262
+"86354","Argentina","ARG","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",64.6160264839844,409.0333,425.3031,432.2262
+"86467","Argentina","ARG","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",14.2,409.0333,425.3031,432.2262
+"90288","Australia","AUS","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1307031702029.1,493.8962,502.9006,509.9939
+"90469","Australia","AUS","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1,493.8962,502.9006,509.9939
+"90519","Australia","AUS","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",64.9000015258789,493.8962,502.9006,509.9939
+"90536","Australia","AUS","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,493.8962,502.9006,509.9939
+"90545","Australia","AUS","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.4512195121951,493.8962,502.9006,509.9939
+"90620","Australia","AUS","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.97886106259926,493.8962,502.9006,509.9939
+"90762","Australia","AUS","Number of infant deaths","SH.DTH.IMRT",991,493.8962,502.9006,509.9939
+"90823","Australia","AUS","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",5.897734951,493.8962,502.9006,509.9939
+"91012","Australia","AUS","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,493.8962,502.9006,509.9939
+"91079","Australia","AUS","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.9878745372358,493.8962,502.9006,509.9939
+"91192","Australia","AUS","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",11.8,493.8962,502.9006,509.9939
+"91863","Austria","AUT","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",412965802868.116,496.7423,484.8656,495.0375
+"92044","Austria","AUT","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.5,496.7423,484.8656,495.0375
+"92094","Austria","AUT","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60.7000007629395,496.7423,484.8656,495.0375
+"92111","Austria","AUT","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,496.7423,484.8656,495.0375
+"92120","Austria","AUT","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.8439024390244,496.7423,484.8656,495.0375
+"92195","Austria","AUT","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.664018970245477,496.7423,484.8656,495.0375
+"92337","Austria","AUT","Number of infant deaths","SH.DTH.IMRT",248,496.7423,484.8656,495.0375
+"92398","Austria","AUT","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",17.01299421,496.7423,484.8656,495.0375
+"92587","Austria","AUT","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,496.7423,484.8656,495.0375
+"92654","Austria","AUT","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.6386781447144,496.7423,484.8656,495.0375
+"92767","Austria","AUT","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",16.4,496.7423,484.8656,495.0375
+"102888","Belgium","BEL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",508108332078.704,506.9844,498.5242,501.9997
+"103069","Belgium","BEL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.9,506.9844,498.5242,501.9997
+"103119","Belgium","BEL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",53.2999992370605,506.9844,498.5242,501.9997
+"103136","Belgium","BEL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,506.9844,498.5242,501.9997
+"103145","Belgium","BEL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.2878048780488,506.9844,498.5242,501.9997
+"103220","Belgium","BEL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.926577447548358,506.9844,498.5242,501.9997
+"103362","Belgium","BEL","Number of infant deaths","SH.DTH.IMRT",411,506.9844,498.5242,501.9997
+"103423","Belgium","BEL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",15.63662972,506.9844,498.5242,501.9997
+"103612","Belgium","BEL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,506.9844,498.5242,501.9997
+"103679","Belgium","BEL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",81.2002323008622,506.9844,498.5242,501.9997
+"103792","Belgium","BEL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",20.5,506.9844,498.5242,501.9997
+"115488","Brazil","BRA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",2331933197388.04,377.0695,407.3486,400.6821
+"115669","Brazil","BRA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",26.7,377.0695,407.3486,400.6821
+"115719","Brazil","BRA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.2000007629395,377.0695,407.3486,400.6821
+"115736","Brazil","BRA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,377.0695,407.3486,400.6821
+"115745","Brazil","BRA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.1991219512195,377.0695,407.3486,400.6821
+"115820","Brazil","BRA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.36442825783942,377.0695,407.3486,400.6821
+"115962","Brazil","BRA","Number of infant deaths","SH.DTH.IMRT",41570,377.0695,407.3486,400.6821
+"116023","Brazil","BRA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",11.36829449,377.0695,407.3486,400.6821
+"116212","Brazil","BRA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,377.0695,407.3486,400.6821
+"116279","Brazil","BRA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",70.7708042661703,377.0695,407.3486,400.6821
+"116392","Brazil","BRA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6.3,377.0695,407.3486,400.6821
+"120213","Bulgaria","BGR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",54639046566.9725,441.1899,431.7175,445.772
+"120394","Bulgaria","BGR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.8,441.1899,431.7175,445.772
+"120444","Bulgaria","BGR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",54.0999984741211,441.1899,431.7175,445.772
+"120461","Bulgaria","BGR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,441.1899,431.7175,445.772
+"120470","Bulgaria","BGR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",74.4658536585366,441.1899,431.7175,445.772
+"120545","Bulgaria","BGR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.31645318203049,441.1899,431.7175,445.772
+"120687","Bulgaria","BGR","Number of infant deaths","SH.DTH.IMRT",470,441.1899,431.7175,445.772
+"120748","Bulgaria","BGR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",28.12871472,441.1899,431.7175,445.772
+"120937","Bulgaria","BGR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.4,441.1899,431.7175,445.772
+"121004","Bulgaria","BGR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",80.8553989053667,441.1899,431.7175,445.772
+"121117","Bulgaria","BGR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",15.9,441.1899,431.7175,445.772
+"129663","Canada","CAN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1796369375909.66,515.6474,526.6678,527.7047
+"129844","Canada","CAN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.7,515.6474,526.6678,527.7047
+"129894","Canada","CAN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",65.8000030517578,515.6474,526.6678,527.7047
+"129911","Canada","CAN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,515.6474,526.6678,527.7047
+"129920","Canada","CAN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.1290243902439,515.6474,526.6678,527.7047
+"129995","Canada","CAN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.986422266114119,515.6474,526.6678,527.7047
+"130137","Canada","CAN","Number of infant deaths","SH.DTH.IMRT",1737,515.6474,526.6678,527.7047
+"130198","Canada","CAN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",7.178847511,515.6474,526.6678,527.7047
+"130387","Canada","CAN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,515.6474,526.6678,527.7047
+"130454","Canada","CAN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",86.2578390375624,515.6474,526.6678,527.7047
+"130567","Canada","CAN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",12.3,515.6474,526.6678,527.7047
+"137538","Chile","CHL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",264790353124.989,422.6714,458.5709,446.9561
+"137719","Chile","CHL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,422.6714,458.5709,446.9561
+"137769","Chile","CHL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.7999992370605,422.6714,458.5709,446.9561
+"137786","Chile","CHL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,422.6714,458.5709,446.9561
+"137795","Chile","CHL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",79.1606829268293,422.6714,458.5709,446.9561
+"137870","Chile","CHL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.91197747100313,422.6714,458.5709,446.9561
+"138012","Chile","CHL","Number of infant deaths","SH.DTH.IMRT",1744,422.6714,458.5709,446.9561
+"138073","Chile","CHL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.94195715,422.6714,458.5709,446.9561
+"138262","Chile","CHL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.7,422.6714,458.5709,446.9561
+"138329","Chile","CHL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",66.9514512612475,422.6714,458.5709,446.9561
+"138442","Chile","CHL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",9.9,422.6714,458.5709,446.9561
+"140688","Colombia","COL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",359119668004.215,389.6438,424.9052,415.7288
+"140869","Colombia","COL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",26.5,389.6438,424.9052,415.7288
+"140919","Colombia","COL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",69.3000030517578,389.6438,424.9052,415.7288
+"140936","Colombia","COL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,389.6438,424.9052,415.7288
+"140945","Colombia","COL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",74.1561951219512,389.6438,424.9052,415.7288
+"141020","Colombia","COL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",3.13089256760814,389.6438,424.9052,415.7288
+"141162","Colombia","COL","Number of infant deaths","SH.DTH.IMRT",10175,389.6438,424.9052,415.7288
+"141223","Colombia","COL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",17.99813938,389.6438,424.9052,415.7288
+"141412","Colombia","COL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",7.1,389.6438,424.9052,415.7288
+"141479","Colombia","COL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",71.1798338018916,389.6438,424.9052,415.7288
+"141592","Colombia","COL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6.1,389.6438,424.9052,415.7288
+"146988","Costa Rica","CRI","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",45226294452.8303,400.2534,427.4875,419.608
+"147169","Costa Rica","CRI","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",11.8,400.2534,427.4875,419.608
+"147219","Costa Rica","CRI","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",61,400.2534,427.4875,419.608
+"147236","Costa Rica","CRI","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,400.2534,427.4875,419.608
+"147245","Costa Rica","CRI","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",79.6089024390244,400.2534,427.4875,419.608
+"147320","Costa Rica","CRI","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,400.2534,427.4875,419.608
+"147462","Costa Rica","CRI","Number of infant deaths","SH.DTH.IMRT",553,400.2534,427.4875,419.608
+"147523","Costa Rica","CRI","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.11774831,400.2534,427.4875,419.608
+"147712","Costa Rica","CRI","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",5.6,400.2534,427.4875,419.608
+"147779","Costa Rica","CRI","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",64.4783907526701,400.2534,427.4875,419.608
+"147892","Costa Rica","CRI","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",7.7,400.2534,427.4875,419.608
+"150138","Croatia","HRV","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",58581225281.9207,464.0401,486.8632,475.3912
+"150319","Croatia","HRV","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.9,464.0401,486.8632,475.3912
+"150369","Croatia","HRV","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",52.7000007629395,464.0401,486.8632,475.3912
+"150386","Croatia","HRV","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,464.0401,486.8632,475.3912
+"150395","Croatia","HRV","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",77.2756097560976,464.0401,486.8632,475.3912
+"150470","Croatia","HRV","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.54013965016805,464.0401,486.8632,475.3912
+"150612","Croatia","HRV","Number of infant deaths","SH.DTH.IMRT",163,464.0401,486.8632,475.3912
+"150673","Croatia","HRV","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",21.78040386,464.0401,486.8632,475.3912
+"150862","Croatia","HRV","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,464.0401,486.8632,475.3912
+"150929","Croatia","HRV","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",79.1356029122758,464.0401,486.8632,475.3912
+"151042","Croatia","HRV","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",17.5,464.0401,486.8632,475.3912
+"154863","Cyprus","CYP","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",23512930619.0275,437.1443,442.8443,432.5964
+"155044","Cyprus","CYP","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.3,437.1443,442.8443,432.5964
+"155094","Cyprus","CYP","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.2999992370605,437.1443,442.8443,432.5964
+"155111","Cyprus","CYP","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,437.1443,442.8443,432.5964
+"155120","Cyprus","CYP","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",80.2910487804878,437.1443,442.8443,432.5964
+"155195","Cyprus","CYP","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.66644121294104,437.1443,442.8443,432.5964
+"155337","Cyprus","CYP","Number of infant deaths","SH.DTH.IMRT",28,437.1443,442.8443,432.5964
+"155398","Cyprus","CYP","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",18.28597332,437.1443,442.8443,432.5964
+"155587","Cyprus","CYP","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.7,437.1443,442.8443,432.5964
+"155654","Cyprus","CYP","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",85.8456999614869,437.1443,442.8443,432.5964
+"155767","Cyprus","CYP","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",4.7,437.1443,442.8443,432.5964
+"156438","Czech Republic","CZE","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",225492702210.936,492.3254,487.2501,492.83
+"156619","Czech Republic","CZE","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.7,492.3254,487.2501,492.83
+"156669","Czech Republic","CZE","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.4000015258789,492.3254,487.2501,492.83
+"156686","Czech Republic","CZE","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,492.3254,487.2501,492.83
+"156695","Czech Republic","CZE","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",79.4731707317073,492.3254,487.2501,492.83
+"156770","Czech Republic","CZE","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.943773890107518,492.3254,487.2501,492.83
+"156912","Czech Republic","CZE","Number of infant deaths","SH.DTH.IMRT",274,492.3254,487.2501,492.83
+"156973","Czech Republic","CZE","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",21.40898739,492.3254,487.2501,492.83
+"157162","Czech Republic","CZE","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,492.3254,487.2501,492.83
+"157229","Czech Republic","CZE","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",75.3538295384161,492.3254,487.2501,492.83
+"157342","Czech Republic","CZE","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",13.7,492.3254,487.2501,492.83
+"158013","Denmark","DNK","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",340825646884.154,511.0876,499.8146,501.9369
+"158194","Denmark","DNK","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1,511.0876,499.8146,501.9369
+"158244","Denmark","DNK","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.2000007629395,511.0876,499.8146,501.9369
+"158261","Denmark","DNK","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,511.0876,499.8146,501.9369
+"158270","Denmark","DNK","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.1,511.0876,499.8146,501.9369
+"158345","Denmark","DNK","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.1165167322116,511.0876,499.8146,501.9369
+"158487","Denmark","DNK","Number of infant deaths","SH.DTH.IMRT",212,511.0876,499.8146,501.9369
+"158548","Denmark","DNK","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",11.02259277,511.0876,499.8146,501.9369
+"158737","Denmark","DNK","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,511.0876,499.8146,501.9369
+"158804","Denmark","DNK","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",86.8594140996762,511.0876,499.8146,501.9369
+"158917","Denmark","DNK","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",12.2,511.0876,499.8146,501.9369
+"162738","Dominican Republic","DOM","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",68989328534.6785,327.702,357.7377,331.6388
+"162919","Dominican Republic","DOM","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,327.702,357.7377,331.6388
+"162969","Dominican Republic","DOM","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.7999992370605,327.702,357.7377,331.6388
+"162986","Dominican Republic","DOM","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,327.702,357.7377,331.6388
+"162995","Dominican Republic","DOM","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",73.7036829268293,327.702,357.7377,331.6388
+"163070","Dominican Republic","DOM","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.672525002499321,327.702,357.7377,331.6388
+"163212","Dominican Republic","DOM","Number of infant deaths","SH.DTH.IMRT",5624,327.702,357.7377,331.6388
+"163273","Dominican Republic","DOM","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.41796867,327.702,357.7377,331.6388
+"163462","Dominican Republic","DOM","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",13.5,327.702,357.7377,331.6388
+"163529","Dominican Republic","DOM","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",67.631038249861,327.702,357.7377,331.6388
+"163642","Dominican Republic","DOM","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6.8,327.702,357.7377,331.6388
+"172188","Estonia","EST","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",23327372037.3633,519.5291,519.1429,534.1937
+"172369","Estonia","EST","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",3.2,519.5291,519.1429,534.1937
+"172419","Estonia","EST","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.0999984741211,519.5291,519.1429,534.1937
+"172436","Estonia","EST","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,519.5291,519.1429,534.1937
+"172445","Estonia","EST","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",77.1317073170732,519.5291,519.1429,534.1937
+"172520","Estonia","EST","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.07885913783175,519.5291,519.1429,534.1937
+"172662","Estonia","EST","Number of infant deaths","SH.DTH.IMRT",35,519.5291,519.1429,534.1937
+"172723","Estonia","EST","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",9.404689495,519.5291,519.1429,534.1937
+"172912","Estonia","EST","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,519.5291,519.1429,534.1937
+"172979","Estonia","EST","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",80.5417958270297,519.5291,519.1429,534.1937
+"173092","Estonia","EST","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",18.9,519.5291,519.1429,534.1937
+"178488","Finland","FIN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",247054164799.596,511.0769,526.4247,530.6612
+"178669","Finland","FIN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.6,511.0769,526.4247,530.6612
+"178719","Finland","FIN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",58.9000015258789,511.0769,526.4247,530.6612
+"178736","Finland","FIN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,511.0769,526.4247,530.6612
+"178745","Finland","FIN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.3853658536585,511.0769,526.4247,530.6612
+"178820","Finland","FIN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.31261898740821,511.0769,526.4247,530.6612
+"178962","Finland","FIN","Number of infant deaths","SH.DTH.IMRT",118,511.0769,526.4247,530.6612
+"179023","Finland","FIN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",7.379235597,511.0769,526.4247,530.6612
+"179212","Finland","FIN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,511.0769,526.4247,530.6612
+"179279","Finland","FIN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",89.1352009430913,511.0769,526.4247,530.6612
+"179392","Finland","FIN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",16.2,511.0769,526.4247,530.6612
+"180063","France","FRA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",2777537939261.97,492.9204,499.3061,494.9776
+"180244","France","FRA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.6,492.9204,499.3061,494.9776
+"180294","France","FRA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",56.0999984741211,492.9204,499.3061,494.9776
+"180311","France","FRA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,492.9204,499.3061,494.9776
+"180320","France","FRA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.6707317073171,492.9204,499.3061,494.9776
+"180395","France","FRA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.27422395787522,492.9204,499.3061,494.9776
+"180537","France","FRA","Number of infant deaths","SH.DTH.IMRT",2455,492.9204,499.3061,494.9776
+"180598","France","FRA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",12.36533737,492.9204,499.3061,494.9776
+"180787","France","FRA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,492.9204,499.3061,494.9776
+"180854","France","FRA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",83.5689479053847,492.9204,499.3061,494.9776
+"180967","France","FRA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",16.9,492.9204,499.3061,494.9776
+"186363","Georgia","GEO","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",14768853639.6005,403.8332,401.2881,411.1315
+"186544","Georgia","GEO","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,403.8332,401.2881,411.1315
+"186594","Georgia","GEO","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",67.8000030517578,403.8332,401.2881,411.1315
+"186611","Georgia","GEO","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,403.8332,401.2881,411.1315
+"186620","Georgia","GEO","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",72.9661219512195,403.8332,401.2881,411.1315
+"186695","Georgia","GEO","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.3800332703407,403.8332,401.2881,411.1315
+"186837","Georgia","GEO","Number of infant deaths","SH.DTH.IMRT",569,403.8332,401.2881,411.1315
+"186898","Georgia","GEO","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.4763228,403.8332,401.2881,411.1315
+"187087","Georgia","GEO","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",7,403.8332,401.2881,411.1315
+"187154","Georgia","GEO","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",74.8060647844049,403.8332,401.2881,411.1315
+"187267","Georgia","GEO","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6.7,403.8332,401.2881,411.1315
+"187938","Germany","DEU","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",3709597862509.39,505.9713,509.1041,509.1406
+"188119","Germany","DEU","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.8,505.9713,509.1041,509.1406
+"188169","Germany","DEU","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60.2000007629395,505.9713,509.1041,509.1406
+"188186","Germany","DEU","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,505.9713,509.1041,509.1406
+"188195","Germany","DEU","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.090243902439,505.9713,509.1041,509.1406
+"188270","Germany","DEU","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.1794720155077,505.9713,509.1041,509.1406
+"188412","Germany","DEU","Number of infant deaths","SH.DTH.IMRT",2332,505.9713,509.1041,509.1406
+"188473","Germany","DEU","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",14.0153719,505.9713,509.1041,509.1406
+"188662","Germany","DEU","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,505.9713,509.1041,509.1406
+"188729","Germany","DEU","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.4693693998871,505.9713,509.1041,509.1406
+"188842","Germany","DEU","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",13.4,505.9713,509.1041,509.1406
+"192663","Greece","GRC","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",245079688980.546,453.6299,467.0395,454.8288
+"192844","Greece","GRC","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.8,453.6299,467.0395,454.8288
+"192894","Greece","GRC","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",52,453.6299,467.0395,454.8288
+"192911","Greece","GRC","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,453.6299,467.0395,454.8288
+"192920","Greece","GRC","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.5878048780488,453.6299,467.0395,454.8288
+"192995","Greece","GRC","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.53045763797423,453.6299,467.0395,454.8288
+"193137","Greece","GRC","Number of infant deaths","SH.DTH.IMRT",297,453.6299,467.0395,454.8288
+"193198","Greece","GRC","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",13.48711001,453.6299,467.0395,454.8288
+"193387","Greece","GRC","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,453.6299,467.0395,454.8288
+"193454","Greece","GRC","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",74.4822618719518,453.6299,467.0395,454.8288
+"193567","Greece","GRC","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",4.3,453.6299,467.0395,454.8288
+"208413","Hong Kong SAR, China","HKG","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",264403622689.868,547.931,526.6753,523.2774
+"208594","Hong Kong SAR, China","HKG","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.3,547.931,526.6753,523.2774
+"208644","Hong Kong SAR, China","HKG","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",61.2000007629395,547.931,526.6753,523.2774
+"208661","Hong Kong SAR, China","HKG","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,547.931,526.6753,523.2774
+"208670","Hong Kong SAR, China","HKG","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",84.2780487804878,547.931,526.6753,523.2774
+"208745","Hong Kong SAR, China","HKG","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,547.931,526.6753,523.2774
+"208887","Hong Kong SAR, China","HKG","Number of infant deaths","SH.DTH.IMRT",NA,547.931,526.6753,523.2774
+"208948","Hong Kong SAR, China","HKG","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",NA,547.931,526.6753,523.2774
+"209137","Hong Kong SAR, China","HKG","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,547.931,526.6753,523.2774
+"209204","Hong Kong SAR, China","HKG","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",79.5893889049609,547.931,526.6753,523.2774
+"209317","Hong Kong SAR, China","HKG","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",NA,547.931,526.6753,523.2774
+"209988","Hungary","HUN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",143995970044.202,476.8309,469.5233,476.7475
+"210169","Hungary","HUN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,476.8309,469.5233,476.7475
+"210219","Hungary","HUN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",54.7999992370605,476.8309,469.5233,476.7475
+"210236","Hungary","HUN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,476.8309,469.5233,476.7475
+"210245","Hungary","HUN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.9609756097561,476.8309,469.5233,476.7475
+"210320","Hungary","HUN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.920425904706633,476.8309,469.5233,476.7475
+"210462","Hungary","HUN","Number of infant deaths","SH.DTH.IMRT",406,476.8309,469.5233,476.7475
+"210523","Hungary","HUN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",23.05838255,476.8309,469.5233,476.7475
+"210712","Hungary","HUN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,476.8309,469.5233,476.7475
+"210779","Hungary","HUN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",74.5549342555089,476.8309,469.5233,476.7475
+"210892","Hungary","HUN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",21.6,476.8309,469.5233,476.7475
+"211563","Iceland","ISL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",15157963467.0998,488.0332,481.5255,473.2301
+"211744","Iceland","ISL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.9,488.0332,481.5255,473.2301
+"211794","Iceland","ISL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",83,488.0332,481.5255,473.2301
+"211811","Iceland","ISL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,488.0332,481.5255,473.2301
+"211820","Iceland","ISL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.8609756097561,488.0332,481.5255,473.2301
+"211895","Iceland","ISL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,488.0332,481.5255,473.2301
+"212037","Iceland","ISL","Number of infant deaths","SH.DTH.IMRT",8,488.0332,481.5255,473.2301
+"212098","Iceland","ISL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",7.78903328,488.0332,481.5255,473.2301
+"212287","Iceland","ISL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,488.0332,481.5255,473.2301
+"212354","Iceland","ISL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",90.3045076083781,488.0332,481.5255,473.2301
+"212467","Iceland","ISL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",13.1,488.0332,481.5255,473.2301
+"214713","Indonesia","IDN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",988127958652.972,386.1096,397.2595,403.0997
+"214894","Indonesia","IDN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,386.1096,397.2595,403.0997
+"214944","Indonesia","IDN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",66.5999984741211,386.1096,397.2595,403.0997
+"214961","Indonesia","IDN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,386.1096,397.2595,403.0997
+"214970","Indonesia","IDN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",69.0386341463415,386.1096,397.2595,403.0997
+"215045","Indonesia","IDN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.886971132633338,386.1096,397.2595,403.0997
+"215187","Indonesia","IDN","Number of infant deaths","SH.DTH.IMRT",114207,386.1096,397.2595,403.0997
+"215248","Indonesia","IDN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",15.40820407,386.1096,397.2595,403.0997
+"215437","Indonesia","IDN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",7.9,386.1096,397.2595,403.0997
+"215504","Indonesia","IDN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",59.0923730664455,386.1096,397.2595,403.0997
+"215617","Indonesia","IDN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",2.9,386.1096,397.2595,403.0997
+"219438","Ireland","IRL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",316109009762.922,503.722,520.8148,502.5751
+"219619","Ireland","IRL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.6,503.722,520.8148,502.5751
+"219669","Ireland","IRL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60,503.722,520.8148,502.5751
+"219686","Ireland","IRL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,503.722,520.8148,502.5751
+"219695","Ireland","IRL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.5024390243902,503.722,520.8148,502.5751
+"219770","Ireland","IRL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.343080759548822,503.722,520.8148,502.5751
+"219912","Ireland","IRL","Number of infant deaths","SH.DTH.IMRT",215,503.722,520.8148,502.5751
+"219973","Ireland","IRL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",9.799825902,503.722,520.8148,502.5751
+"220162","Ireland","IRL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,503.722,520.8148,502.5751
+"220229","Ireland","IRL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",77.2639650169612,503.722,520.8148,502.5751
+"220342","Ireland","IRL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",11.7,503.722,520.8148,502.5751
+"222588","Israel","ISR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",276487272960.685,469.6695,478.9606,466.5528
+"222769","Israel","ISR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.4,469.6695,478.9606,466.5528
+"222819","Israel","ISR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",64.0999984741211,469.6695,478.9606,466.5528
+"222836","Israel","ISR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,469.6695,478.9606,466.5528
+"222845","Israel","ISR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.0512195121951,469.6695,478.9606,466.5528
+"222920","Israel","ISR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",5.60351205640768,469.6695,478.9606,466.5528
+"223062","Israel","ISR","Number of infant deaths","SH.DTH.IMRT",499,469.6695,478.9606,466.5528
+"223123","Israel","ISR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",21.09447276,469.6695,478.9606,466.5528
+"223312","Israel","ISR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,469.6695,478.9606,466.5528
+"223379","Israel","ISR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",84.8640049227834,469.6695,478.9606,466.5528
+"223492","Israel","ISR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",5.5,469.6695,478.9606,466.5528
+"224163","Italy","ITA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",2063873410309.19,489.7287,484.758,480.5468
+"224344","Italy","ITA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.8,489.7287,484.758,480.5468
+"224394","Italy","ITA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",49,489.7287,484.758,480.5468
+"224411","Italy","ITA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,489.7287,484.758,480.5468
+"224420","Italy","ITA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",83.490243902439,489.7287,484.758,480.5468
+"224495","Italy","ITA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.38051227111299,489.7287,484.758,480.5468
+"224637","Italy","ITA","Number of infant deaths","SH.DTH.IMRT",1445,489.7287,484.758,480.5468
+"224698","Italy","ITA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",19.86123293,489.7287,484.758,480.5468
+"224887","Italy","ITA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,489.7287,484.758,480.5468
+"224954","Italy","ITA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",66.76790869528,489.7287,484.758,480.5468
+"225067","Italy","ITA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",7.9,489.7287,484.758,480.5468
+"227313","Japan","JPN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",5986140110537.86,532.4399,515.9585,538.3948
+"227494","Japan","JPN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,532.4399,515.9585,538.3948
+"227544","Japan","JPN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.5999984741211,532.4399,515.9585,538.3948
+"227561","Japan","JPN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,532.4399,515.9585,538.3948
+"227570","Japan","JPN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",83.8436585365854,532.4399,515.9585,538.3948
+"227645","Japan","JPN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.937771183303515,532.4399,515.9585,538.3948
+"227787","Japan","JPN","Number of infant deaths","SH.DTH.IMRT",2116,532.4399,515.9585,538.3948
+"227848","Japan","JPN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",13.33416293,532.4399,515.9585,538.3948
+"228037","Japan","JPN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,532.4399,515.9585,538.3948
+"228104","Japan","JPN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",70.4535174824218,532.4399,515.9585,538.3948
+"228217","Japan","JPN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",19.6,532.4399,515.9585,538.3948
+"228888","Jordan","JOR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",30206410880.2344,380.259,408.1022,408.6691
+"229069","Jordan","JOR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,380.259,408.1022,408.6691
+"229119","Jordan","JOR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",NA,380.259,408.1022,408.6691
+"229136","Jordan","JOR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,380.259,408.1022,408.6691
+"229145","Jordan","JOR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",74.1910243902439,380.259,408.1022,408.6691
+"229220","Jordan","JOR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",4.30748371461253,380.259,408.1022,408.6691
+"229362","Jordan","JOR","Number of infant deaths","SH.DTH.IMRT",3728,380.259,408.1022,408.6691
+"229423","Jordan","JOR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",38.79814209,380.259,408.1022,408.6691
+"229612","Jordan","JOR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.2,380.259,408.1022,408.6691
+"229679","Jordan","JOR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",21.7899058835044,380.259,408.1022,408.6691
+"229792","Jordan","JOR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",3.2,380.259,408.1022,408.6691
+"230463","Kazakhstan","KAZ","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",186260298082,459.816,427.141,456.4836
+"230644","Kazakhstan","KAZ","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",4.8,459.816,427.141,456.4836
+"230694","Kazakhstan","KAZ","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",71.8000030517578,459.816,427.141,456.4836
+"230711","Kazakhstan","KAZ","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,459.816,427.141,456.4836
+"230720","Kazakhstan","KAZ","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",72,459.816,427.141,456.4836
+"230795","Kazakhstan","KAZ","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.10972144949649,459.816,427.141,456.4836
+"230937","Kazakhstan","KAZ","Number of infant deaths","SH.DTH.IMRT",4321,459.816,427.141,456.4836
+"230998","Kazakhstan","KAZ","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",19.66999774,459.816,427.141,456.4836
+"231187","Kazakhstan","KAZ","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,459.816,427.141,456.4836
+"231254","Kazakhstan","KAZ","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",84.8999093307709,459.816,427.141,456.4836
+"231367","Kazakhstan","KAZ","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",27.5,459.816,427.141,456.4836
+"236763","Korea, Rep.","KOR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1268781059130.96,524.1062,517.4367,515.8099
+"236944","Korea, Rep.","KOR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,524.1062,517.4367,515.8099
+"236994","Korea, Rep.","KOR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.5999984741211,524.1062,517.4367,515.8099
+"237011","Korea, Rep.","KOR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,524.1062,517.4367,515.8099
+"237020","Korea, Rep.","KOR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.1558536585366,524.1062,517.4367,515.8099
+"237095","Korea, Rep.","KOR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.63477209190397,524.1062,517.4367,515.8099
+"237237","Korea, Rep.","KOR","Number of infant deaths","SH.DTH.IMRT",1345,524.1062,517.4367,515.8099
+"237298","Korea, Rep.","KOR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",28.66424214,524.1062,517.4367,515.8099
+"237487","Korea, Rep.","KOR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,524.1062,517.4367,515.8099
+"237554","Korea, Rep.","KOR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",71.0107501499107,524.1062,517.4367,515.8099
+"237667","Korea, Rep.","KOR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",32,524.1062,517.4367,515.8099
+"244638","Latvia","LVA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",28266857415.2487,482.3051,487.7581,490.225
+"244819","Latvia","LVA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",4.1,482.3051,487.7581,490.225
+"244869","Latvia","LVA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60.0999984741211,482.3051,487.7581,490.225
+"244886","Latvia","LVA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,482.3051,487.7581,490.225
+"244895","Latvia","LVA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",74.1243902439024,482.3051,487.7581,490.225
+"244970","Latvia","LVA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.04668330738457,482.3051,487.7581,490.225
+"245112","Latvia","LVA","Number of infant deaths","SH.DTH.IMRT",87,482.3051,487.7581,490.225
+"245173","Latvia","LVA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.41799195,482.3051,487.7581,490.225
+"245362","Latvia","LVA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,482.3051,487.7581,490.225
+"245429","Latvia","LVA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",80.3008949517082,482.3051,487.7581,490.225
+"245542","Latvia","LVA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",21.7,482.3051,487.7581,490.225
+"246213","Lebanon","LBN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",42069990678.188,396.2497,346.549,386.4854
+"246394","Lebanon","LBN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",3.9,396.2497,346.549,386.4854
+"246444","Lebanon","LBN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",NA,396.2497,346.549,386.4854
+"246461","Lebanon","LBN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,396.2497,346.549,386.4854
+"246470","Lebanon","LBN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",79.498243902439,396.2497,346.549,386.4854
+"246545","Lebanon","LBN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",4.52779609471779,396.2497,346.549,386.4854
+"246687","Lebanon","LBN","Number of infant deaths","SH.DTH.IMRT",605,396.2497,346.549,386.4854
+"246748","Lebanon","LBN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",32.60158923,396.2497,346.549,386.4854
+"246937","Lebanon","LBN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",5.4,396.2497,346.549,386.4854
+"247004","Lebanon","LBN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",32.3557280203993,396.2497,346.549,386.4854
+"247117","Lebanon","LBN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",3.1,396.2497,346.549,386.4854
+"254088","Lithuania","LTU","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",44566671972.7345,478.3834,472.4066,475.4089
+"254269","Lithuania","LTU","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",6,478.3834,472.4066,475.4089
+"254319","Lithuania","LTU","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.2000007629395,478.3834,472.4066,475.4089
+"254336","Lithuania","LTU","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,478.3834,472.4066,475.4089
+"254345","Lithuania","LTU","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.119512195122,478.3834,472.4066,475.4089
+"254420","Lithuania","LTU","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.13821125100633,478.3834,472.4066,475.4089
+"254562","Lithuania","LTU","Number of infant deaths","SH.DTH.IMRT",128,478.3834,472.4066,475.4089
+"254623","Lithuania","LTU","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",19.06499459,478.3834,472.4066,475.4089
+"254812","Lithuania","LTU","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,478.3834,472.4066,475.4089
+"254879","Lithuania","LTU","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",83.9259890981593,478.3834,472.4066,475.4089
+"254992","Lithuania","LTU","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",32.7,478.3834,472.4066,475.4089
+"255663","Luxembourg","LUX","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",61317077715.6898,485.7706,481.4391,482.8064
+"255844","Luxembourg","LUX","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,485.7706,481.4391,482.8064
+"255894","Luxembourg","LUX","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60,485.7706,481.4391,482.8064
+"255911","Luxembourg","LUX","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,485.7706,481.4391,482.8064
+"255920","Luxembourg","LUX","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.2292682926829,485.7706,481.4391,482.8064
+"255995","Luxembourg","LUX","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.477909561392646,485.7706,481.4391,482.8064
+"256137","Luxembourg","LUX","Number of infant deaths","SH.DTH.IMRT",13,485.7706,481.4391,482.8064
+"256198","Luxembourg","LUX","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",16.58784625,485.7706,481.4391,482.8064
+"256387","Luxembourg","LUX","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,485.7706,481.4391,482.8064
+"256454","Luxembourg","LUX","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.1784473678234,485.7706,481.4391,482.8064
+"256567","Luxembourg","LUX","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",11.1,485.7706,481.4391,482.8064
+"257238","Macao SAR, China","MAC","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",32222224910.8057,543.8078,508.6905,528.5496
+"257419","Macao SAR, China","MAC","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.2,543.8078,508.6905,528.5496
+"257469","Macao SAR, China","MAC","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",73.6999969482422,543.8078,508.6905,528.5496
+"257486","Macao SAR, China","MAC","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",NA,543.8078,508.6905,528.5496
+"257495","Macao SAR, China","MAC","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",83.5949024390244,543.8078,508.6905,528.5496
+"257570","Macao SAR, China","MAC","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,543.8078,508.6905,528.5496
+"257712","Macao SAR, China","MAC","Number of infant deaths","SH.DTH.IMRT",NA,543.8078,508.6905,528.5496
+"257773","Macao SAR, China","MAC","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",NA,543.8078,508.6905,528.5496
+"257962","Macao SAR, China","MAC","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",6.3,543.8078,508.6905,528.5496
+"258029","Macao SAR, China","MAC","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",86.3181043410623,543.8078,508.6905,528.5496
+"258142","Macao SAR, China","MAC","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",NA,543.8078,508.6905,528.5496
+"258813","Macedonia, FYR","MKD","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",10614404462.0042,371.3114,351.7415,383.6824
+"258994","Macedonia, FYR","MKD","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,371.3114,351.7415,383.6824
+"259044","Macedonia, FYR","MKD","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",55.4000015258789,371.3114,351.7415,383.6824
+"259061","Macedonia, FYR","MKD","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,371.3114,351.7415,383.6824
+"259070","Macedonia, FYR","MKD","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.5243170731707,371.3114,351.7415,383.6824
+"259145","Macedonia, FYR","MKD","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.04981728288908,371.3114,351.7415,383.6824
+"259287","Macedonia, FYR","MKD","Number of infant deaths","SH.DTH.IMRT",246,371.3114,351.7415,383.6824
+"259348","Macedonia, FYR","MKD","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",40.4789043,371.3114,351.7415,383.6824
+"259537","Macedonia, FYR","MKD","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.9,371.3114,351.7415,383.6824
+"259604","Macedonia, FYR","MKD","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",64.3772986233615,371.3114,351.7415,383.6824
+"259717","Macedonia, FYR","MKD","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",8,371.3114,351.7415,383.6824
+"263538","Malaysia","MYS","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",330121697556.735,446.1098,430.5782,442.9475
+"263719","Malaysia","MYS","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,446.1098,430.5782,442.9475
+"263769","Malaysia","MYS","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",67.9000015258789,446.1098,430.5782,442.9475
+"263786","Malaysia","MYS","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,446.1098,430.5782,442.9475
+"263795","Malaysia","MYS","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.2201951219512,446.1098,430.5782,442.9475
+"263870","Malaysia","MYS","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.52886312183484,446.1098,430.5782,442.9475
+"264012","Malaysia","MYS","Number of infant deaths","SH.DTH.IMRT",3638,446.1098,430.5782,442.9475
+"264073","Malaysia","MYS","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",15.55640978,446.1098,430.5782,442.9475
+"264262","Malaysia","MYS","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,446.1098,430.5782,442.9475
+"264329","Malaysia","MYS","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",65.0704960984942,446.1098,430.5782,442.9475
+"264442","Malaysia","MYS","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",5.8,446.1098,430.5782,442.9475
+"268263","Malta","MLT","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",11017738830.2691,478.6448,446.6661,464.7819
+"268444","Malta","MLT","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1,478.6448,446.6661,464.7819
+"268494","Malta","MLT","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",54.5,478.6448,446.6661,464.7819
+"268511","Malta","MLT","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,478.6448,446.6661,464.7819
+"268520","Malta","MLT","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.9463414634146,478.6448,446.6661,464.7819
+"268595","Malta","MLT","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.503586261435681,478.6448,446.6661,464.7819
+"268737","Malta","MLT","Number of infant deaths","SH.DTH.IMRT",25,478.6448,446.6661,464.7819
+"268798","Malta","MLT","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",15.67337266,478.6448,446.6661,464.7819
+"268987","Malta","MLT","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,478.6448,446.6661,464.7819
+"269054","Malta","MLT","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",62.2666302707444,478.6448,446.6661,464.7819
+"269167","Malta","MLT","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6,478.6448,446.6661,464.7819
+"274563","Mexico","MEX","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1210480781401.75,408.0235,423.2765,415.7099
+"274744","Mexico","MEX","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",16.3,408.0235,423.2765,415.7099
+"274794","Mexico","MEX","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.7999992370605,408.0235,423.2765,415.7099
+"274811","Mexico","MEX","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,408.0235,423.2765,415.7099
+"274820","Mexico","MEX","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",76.8813658536586,408.0235,423.2765,415.7099
+"274895","Mexico","MEX","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.671678248803633,408.0235,423.2765,415.7099
+"275037","Mexico","MEX","Number of infant deaths","SH.DTH.IMRT",30048,408.0235,423.2765,415.7099
+"275098","Mexico","MEX","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.23982419,408.0235,423.2765,415.7099
+"275287","Mexico","MEX","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.2,408.0235,423.2765,415.7099
+"275354","Mexico","MEX","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",55.3529198387316,408.0235,423.2765,415.7099
+"275467","Mexico","MEX","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",5,408.0235,423.2765,415.7099
+"277713","Moldova","MDA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",7038084252.4423,419.6635,416.2293,427.9978
+"277894","Moldova","MDA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,419.6635,416.2293,427.9978
+"277944","Moldova","MDA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",44,419.6635,416.2293,427.9978
+"277961","Moldova","MDA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,419.6635,416.2293,427.9978
+"277970","Moldova","MDA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",71.3712195121951,419.6635,416.2293,427.9978
+"278045","Moldova","MDA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.353940422476604,419.6635,416.2293,427.9978
+"278187","Moldova","MDA","Number of infant deaths","SH.DTH.IMRT",598,419.6635,416.2293,427.9978
+"278248","Moldova","MDA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.5543623,419.6635,416.2293,427.9978
+"278437","Moldova","MDA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",8.5,419.6635,416.2293,427.9978
+"278504","Moldova","MDA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",87.2952194463635,419.6635,416.2293,427.9978
+"278617","Moldova","MDA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",14.8,419.6635,416.2293,427.9978
+"282438","Montenegro","MNE","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",4529247249.36758,417.9341,426.8845,411.3136
+"282619","Montenegro","MNE","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",2.7,417.9341,426.8845,411.3136
+"282669","Montenegro","MNE","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",53.7000007629395,417.9341,426.8845,411.3136
+"282686","Montenegro","MNE","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,417.9341,426.8845,411.3136
+"282695","Montenegro","MNE","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",76.8643170731707,417.9341,426.8845,411.3136
+"282770","Montenegro","MNE","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.37049762047573,417.9341,426.8845,411.3136
+"282912","Montenegro","MNE","Number of infant deaths","SH.DTH.IMRT",28,417.9341,426.8845,411.3136
+"282973","Montenegro","MNE","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",23.35266451,417.9341,426.8845,411.3136
+"283162","Montenegro","MNE","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,417.9341,426.8845,411.3136
+"283229","Montenegro","MNE","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",76.2738708873628,417.9341,426.8845,411.3136
+"283342","Montenegro","MNE","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",11,417.9341,426.8845,411.3136
+"293463","Netherlands","NLD","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",870889730163.844,512.2528,502.9591,508.5748
+"293644","Netherlands","NLD","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.6,512.2528,502.9591,508.5748
+"293694","Netherlands","NLD","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",64.4000015258789,512.2528,502.9591,508.5748
+"293711","Netherlands","NLD","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,512.2528,502.9591,508.5748
+"293720","Netherlands","NLD","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.7073170731707,512.2528,502.9591,508.5748
+"293795","Netherlands","NLD","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.14356865172205,512.2528,502.9591,508.5748
+"293937","Netherlands","NLD","Number of infant deaths","SH.DTH.IMRT",588,512.2528,502.9591,508.5748
+"293998","Netherlands","NLD","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",14.63752206,512.2528,502.9591,508.5748
+"294187","Netherlands","NLD","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,512.2528,502.9591,508.5748
+"294254","Netherlands","NLD","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",83.0494655509286,512.2528,502.9591,508.5748
+"294367","Netherlands","NLD","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",11.9,512.2528,502.9591,508.5748
+"296613","New Zealand","NZL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",167775990510.767,495.2233,509.2707,513.3035
+"296794","New Zealand","NZL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,495.2233,509.2707,513.3035
+"296844","New Zealand","NZL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",68.6999969482422,495.2233,509.2707,513.3035
+"296861","New Zealand","NZL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,495.2233,509.2707,513.3035
+"296870","New Zealand","NZL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.4568292682927,495.2233,509.2707,513.3035
+"296945","New Zealand","NZL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.10715697506833,495.2233,509.2707,513.3035
+"297087","New Zealand","NZL","Number of infant deaths","SH.DTH.IMRT",283,495.2233,509.2707,513.3035
+"297148","New Zealand","NZL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",5.546610811,495.2233,509.2707,513.3035
+"297337","New Zealand","NZL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,495.2233,509.2707,513.3035
+"297404","New Zealand","NZL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",84.7646562967319,495.2233,509.2707,513.3035
+"297517","New Zealand","NZL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",12.6,495.2233,509.2707,513.3035
+"304488","Norway","NOR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",467661545335.723,501.7298,513.1912,498.4811
+"304669","Norway","NOR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,501.7298,513.1912,498.4811
+"304719","Norway","NOR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",65,501.7298,513.1912,498.4811
+"304736","Norway","NOR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,501.7298,513.1912,498.4811
+"304745","Norway","NOR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.1,501.7298,513.1912,498.4811
+"304820","Norway","NOR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.50392095739863,501.7298,513.1912,498.4811
+"304962","Norway","NOR","Number of infant deaths","SH.DTH.IMRT",135,501.7298,513.1912,498.4811
+"305023","Norway","NOR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",9.07633792,501.7298,513.1912,498.4811
+"305212","Norway","NOR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,501.7298,513.1912,498.4811
+"305279","Norway","NOR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",89.6297239068545,501.7298,513.1912,498.4811
+"305392","Norway","NOR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",10.9,501.7298,513.1912,498.4811
+"315513","Peru","PER","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",186252478805.728,386.5606,397.5414,396.6836
+"315694","Peru","PER","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",7.2,386.5606,397.5414,396.6836
+"315744","Peru","PER","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",70.4000015258789,386.5606,397.5414,396.6836
+"315761","Peru","PER","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,386.5606,397.5414,396.6836
+"315770","Peru","PER","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",74.7134146341463,386.5606,397.5414,396.6836
+"315845","Peru","PER","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.6864804398807,386.5606,397.5414,396.6836
+"315987","Peru","PER","Number of infant deaths","SH.DTH.IMRT",7623,386.5606,397.5414,396.6836
+"316048","Peru","PER","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",27.8233501,386.5606,397.5414,396.6836
+"316237","Peru","PER","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",7.9,386.5606,397.5414,396.6836
+"316304","Peru","PER","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",80.8163418004979,386.5606,397.5414,396.6836
+"316417","Peru","PER","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",5.8,386.5606,397.5414,396.6836
+"318663","Poland","POL","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",556126935703.153,504.4693,505.6971,501.4353
+"318844","Poland","POL","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.7,504.4693,505.6971,501.4353
+"318894","Poland","POL","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",56.2000007629395,504.4693,505.6971,501.4353
+"318911","Poland","POL","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,504.4693,505.6971,501.4353
+"318920","Poland","POL","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",78.2048780487805,504.4693,505.6971,501.4353
+"318995","Poland","POL","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.13945021429461,504.4693,505.6971,501.4353
+"319137","Poland","POL","Number of infant deaths","SH.DTH.IMRT",1549,504.4693,505.6971,501.4353
+"319198","Poland","POL","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",24.28187517,504.4693,505.6971,501.4353
+"319387","Poland","POL","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,504.4693,505.6971,501.4353
+"319454","Poland","POL","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",75.2824578604992,504.4693,505.6971,501.4353
+"319567","Poland","POL","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",22.3,504.4693,505.6971,501.4353
+"320238","Portugal","PRT","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",228052070073.727,491.627,498.1289,501.1001
+"320419","Portugal","PRT","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1,491.627,498.1289,501.1001
+"320469","Portugal","PRT","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",58.5999984741211,491.627,498.1289,501.1001
+"320486","Portugal","PRT","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,491.627,498.1289,501.1001
+"320495","Portugal","PRT","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.5219512195122,491.627,498.1289,501.1001
+"320570","Portugal","PRT","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.78355861610333,491.627,498.1289,501.1001
+"320712","Portugal","PRT","Number of infant deaths","SH.DTH.IMRT",244,491.627,498.1289,501.1001
+"320773","Portugal","PRT","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",9.760644322,491.627,498.1289,501.1001
+"320962","Portugal","PRT","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,491.627,498.1289,501.1001
+"321029","Portugal","PRT","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",83.8132863416008,491.627,498.1289,501.1001
+"321142","Portugal","PRT","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",13.6,491.627,498.1289,501.1001
+"323388","Qatar","QAT","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",166951102638.237,402.4007,401.8874,417.6112
+"323569","Qatar","QAT","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",8.1,402.4007,401.8874,417.6112
+"323619","Qatar","QAT","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",88.5999984741211,402.4007,401.8874,417.6112
+"323636","Qatar","QAT","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,402.4007,401.8874,417.6112
+"323645","Qatar","QAT","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",78.4627073170732,402.4007,401.8874,417.6112
+"323720","Qatar","QAT","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,402.4007,401.8874,417.6112
+"323862","Qatar","QAT","Number of infant deaths","SH.DTH.IMRT",183,402.4007,401.8874,417.6112
+"323923","Qatar","QAT","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",107.3089368,402.4007,401.8874,417.6112
+"324112","Qatar","QAT","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",NA,402.4007,401.8874,417.6112
+"324179","Qatar","QAT","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",62.0037672822286,402.4007,401.8874,417.6112
+"324292","Qatar","QAT","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",6.4,402.4007,401.8874,417.6112
+"326538","Russian Federation","RUS","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1658163260860.99,494.06,494.6278,486.631
+"326719","Russian Federation","RUS","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",11.3,494.06,494.6278,486.631
+"326769","Russian Federation","RUS","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",69.0999984741211,494.06,494.6278,486.631
+"326786","Russian Federation","RUS","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,494.06,494.6278,486.631
+"326795","Russian Federation","RUS","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",70.9085365853659,494.06,494.6278,486.631
+"326870","Russian Federation","RUS","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",4.86275702689816,494.06,494.6278,486.631
+"327012","Russian Federation","RUS","Number of infant deaths","SH.DTH.IMRT",12606,494.06,494.6278,486.631
+"327073","Russian Federation","RUS","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",16.63374961,494.06,494.6278,486.631
+"327262","Russian Federation","RUS","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,494.06,494.6278,486.631
+"327329","Russian Federation","RUS","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",78.8978436745162,494.06,494.6278,486.631
+"327442","Russian Federation","RUS","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",20.1,494.06,494.6278,486.631
+"342288","Singapore","SGP","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",289173890722.406,564.1897,535.1002,555.5747
+"342469","Singapore","SGP","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.2,564.1897,535.1002,555.5747
+"342519","Singapore","SGP","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",68.3000030517578,564.1897,535.1002,555.5747
+"342536","Singapore","SGP","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,564.1897,535.1002,555.5747
+"342545","Singapore","SGP","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.5951219512195,564.1897,535.1002,555.5747
+"342620","Singapore","SGP","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",3.16478377913465,564.1897,535.1002,555.5747
+"342762","Singapore","SGP","Number of infant deaths","SH.DTH.IMRT",104,564.1897,535.1002,555.5747
+"342823","Singapore","SGP","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",18.73785053,564.1897,535.1002,555.5747
+"343012","Singapore","SGP","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",NA,564.1897,535.1002,555.5747
+"343079","Singapore","SGP","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",78.6432980806771,564.1897,535.1002,555.5747
+"343192","Singapore","SGP","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",9.9,564.1897,535.1002,555.5747
+"345438","Slovak Republic","SVK","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",101310826326.841,475.2301,452.5143,460.7749
+"345619","Slovak Republic","SVK","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.9,475.2301,452.5143,460.7749
+"345669","Slovak Republic","SVK","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",59.5999984741211,475.2301,452.5143,460.7749
+"345686","Slovak Republic","SVK","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,475.2301,452.5143,460.7749
+"345695","Slovak Republic","SVK","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",77.2121951219512,475.2301,452.5143,460.7749
+"345770","Slovak Republic","SVK","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.12679351083039,475.2301,452.5143,460.7749
+"345912","Slovak Republic","SVK","Number of infant deaths","SH.DTH.IMRT",285,475.2301,452.5143,460.7749
+"345973","Slovak Republic","SVK","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.52367065,475.2301,452.5143,460.7749
+"346162","Slovak Republic","SVK","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.1,475.2301,452.5143,460.7749
+"346229","Slovak Republic","SVK","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",76.6997395321932,475.2301,452.5143,460.7749
+"346342","Slovak Republic","SVK","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",12.5,475.2301,452.5143,460.7749
+"347013","Slovenia","SVN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",48969999339.1887,509.9196,505.2159,512.8636
+"347194","Slovenia","SVN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.2,509.9196,505.2159,512.8636
+"347244","Slovenia","SVN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",57.2999992370605,509.9196,505.2159,512.8636
+"347261","Slovenia","SVN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,509.9196,505.2159,512.8636
+"347270","Slovenia","SVN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.0780487804878,509.9196,505.2159,512.8636
+"347345","Slovenia","SVN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.930145095754835,509.9196,505.2159,512.8636
+"347487","Slovenia","SVN","Number of infant deaths","SH.DTH.IMRT",41,509.9196,505.2159,512.8636
+"347548","Slovenia","SVN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",20.3499567,509.9196,505.2159,512.8636
+"347737","Slovenia","SVN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,509.9196,505.2159,512.8636
+"347804","Slovenia","SVN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.7904989069831,509.9196,505.2159,512.8636
+"347917","Slovenia","SVN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",21.4,509.9196,505.2159,512.8636
+"354888","Spain","ESP","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1418074509574.91,485.8432,495.5764,492.7861
+"355069","Spain","ESP","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.7,485.8432,495.5764,492.7861
+"355119","Spain","ESP","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",58.7999992370605,485.8432,495.5764,492.7861
+"355136","Spain","ESP","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,485.8432,495.5764,492.7861
+"355145","Spain","ESP","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",83.3804878048781,485.8432,495.5764,492.7861
+"355220","Spain","ESP","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.2469467536051,485.8432,495.5764,492.7861
+"355362","Spain","ESP","Number of infant deaths","SH.DTH.IMRT",1174,485.8432,495.5764,492.7861
+"355423","Spain","ESP","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",9.738283342,485.8432,495.5764,492.7861
+"355612","Spain","ESP","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,485.8432,495.5764,492.7861
+"355679","Spain","ESP","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",80.8548077230334,485.8432,495.5764,492.7861
+"355792","Spain","ESP","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",8.5,485.8432,495.5764,492.7861
+"369063","Sweden","SWE","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",542826483759.044,493.9181,500.1556,493.4224
+"369244","Sweden","SWE","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",1.1,493.9181,500.1556,493.4224
+"369294","Sweden","SWE","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",72,493.9181,500.1556,493.4224
+"369311","Sweden","SWE","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,493.9181,500.1556,493.4224
+"369320","Sweden","SWE","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",82.5512195121951,493.9181,500.1556,493.4224
+"369395","Sweden","SWE","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.08189320596401,493.9181,500.1556,493.4224
+"369537","Sweden","SWE","Number of infant deaths","SH.DTH.IMRT",283,493.9181,500.1556,493.4224
+"369598","Sweden","SWE","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",6.241379908,493.9181,500.1556,493.4224
+"369787","Sweden","SWE","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,493.9181,500.1556,493.4224
+"369854","Sweden","SWE","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",90.0697878773178,493.9181,500.1556,493.4224
+"369967","Sweden","SWE","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",15.4,493.9181,500.1556,493.4224
+"370638","Switzerland","CHE","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",633375192571.142,521.2506,492.1982,505.5058
+"370819","Switzerland","CHE","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.7,521.2506,492.1982,505.5058
+"370869","Switzerland","CHE","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",68.1999969482422,521.2506,492.1982,505.5058
+"370886","Switzerland","CHE","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,521.2506,492.1982,505.5058
+"370895","Switzerland","CHE","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",83.1975609756098,521.2506,492.1982,505.5058
+"370970","Switzerland","CHE","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.665559989750621,521.2506,492.1982,505.5058
+"371112","Switzerland","CHE","Number of infant deaths","SH.DTH.IMRT",309,521.2506,492.1982,505.5058
+"371173","Switzerland","CHE","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",12.89019363,521.2506,492.1982,505.5058
+"371362","Switzerland","CHE","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,521.2506,492.1982,505.5058
+"371429","Switzerland","CHE","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",84.0608043248938,521.2506,492.1982,505.5058
+"371542","Switzerland","CHE","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",15.1,521.2506,492.1982,505.5058
+"376938","Thailand","THA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",393677285157.959,415.4638,409.1301,421.3373
+"377119","Thailand","THA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",3.5,415.4638,409.1301,421.3373
+"377169","Thailand","THA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",69.1999969482422,415.4638,409.1301,421.3373
+"377186","Thailand","THA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,415.4638,409.1301,421.3373
+"377195","Thailand","THA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.068,415.4638,409.1301,421.3373
+"377270","Thailand","THA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.43595910586406,415.4638,409.1301,421.3373
+"377412","Thailand","THA","Number of infant deaths","SH.DTH.IMRT",7902,415.4638,409.1301,421.3373
+"377473","Thailand","THA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",26.35272294,415.4638,409.1301,421.3373
+"377662","Thailand","THA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",9.5,415.4638,409.1301,421.3373
+"377729","Thailand","THA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",78.3928765902921,415.4638,409.1301,421.3373
+"377842","Thailand","THA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",16,415.4638,409.1301,421.3373
+"383238","Trinidad and Tobago","TTO","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",22708070510.7513,417.2434,427.2733,424.5905
+"383419","Trinidad and Tobago","TTO","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",30.9,417.2434,427.2733,424.5905
+"383469","Trinidad and Tobago","TTO","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",60.5999984741211,417.2434,427.2733,424.5905
+"383486","Trinidad and Tobago","TTO","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,417.2434,427.2733,424.5905
+"383495","Trinidad and Tobago","TTO","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",70.5888536585366,417.2434,427.2733,424.5905
+"383570","Trinidad and Tobago","TTO","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",0.87920458765789,417.2434,427.2733,424.5905
+"383712","Trinidad and Tobago","TTO","Number of infant deaths","SH.DTH.IMRT",324,417.2434,427.2733,424.5905
+"383773","Trinidad and Tobago","TTO","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",14.19016577,417.2434,427.2733,424.5905
+"383962","Trinidad and Tobago","TTO","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",4.8,417.2434,427.2733,424.5905
+"384029","Trinidad and Tobago","TTO","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",69.5745772847584,417.2434,427.2733,424.5905
+"384142","Trinidad and Tobago","TTO","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",14.5,417.2434,427.2733,424.5905
+"384813","Tunisia","TUN","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",48076708117.9265,366.818,361.0555,386.4034
+"384994","Tunisia","TUN","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,366.818,361.0555,386.4034
+"385044","Tunisia","TUN","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",47.2000007629395,366.818,361.0555,386.4034
+"385061","Tunisia","TUN","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,366.818,361.0555,386.4034
+"385070","Tunisia","TUN","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.4970487804878,366.818,361.0555,386.4034
+"385145","Tunisia","TUN","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.26965065760098,366.818,361.0555,386.4034
+"385287","Tunisia","TUN","Number of infant deaths","SH.DTH.IMRT",2537,366.818,361.0555,386.4034
+"385348","Tunisia","TUN","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",44.79266297,366.818,361.0555,386.4034
+"385537","Tunisia","TUN","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",5,366.818,361.0555,386.4034
+"385604","Tunisia","TUN","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",34.8139366266402,366.818,361.0555,386.4034
+"385717","Tunisia","TUN","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",5.5,366.818,361.0555,386.4034
+"386388","Turkey","TUR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",1087840328650.29,420.454,428.3351,425.4895
+"386569","Turkey","TUR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,420.454,428.3351,425.4895
+"386619","Turkey","TUR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",51.2000007629395,420.454,428.3351,425.4895
+"386636","Turkey","TUR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,420.454,428.3351,425.4895
+"386645","Turkey","TUR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.4070975609756,420.454,428.3351,425.4895
+"386720","Turkey","TUR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.84705574379331,420.454,428.3351,425.4895
+"386862","Turkey","TUR","Number of infant deaths","SH.DTH.IMRT",15129,420.454,428.3351,425.4895
+"386923","Turkey","TUR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",36.40911573,420.454,428.3351,425.4895
+"387112","Turkey","TUR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,420.454,428.3351,425.4895
+"387179","Turkey","TUR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",43.892575940755,420.454,428.3351,425.4895
+"387292","Turkey","TUR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",8.7,420.454,428.3351,425.4895
+"395838","United Arab Emirates","ARE","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",367632720980.259,427.4827,433.5423,436.7311
+"396019","United Arab Emirates","ARE","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",0.7,427.4827,433.5423,436.7311
+"396069","United Arab Emirates","ARE","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",NA,427.4827,433.5423,436.7311
+"396086","United Arab Emirates","ARE","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",0,427.4827,433.5423,436.7311
+"396095","United Arab Emirates","ARE","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",77.484243902439,427.4827,433.5423,436.7311
+"396170","United Arab Emirates","ARE","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",NA,427.4827,433.5423,436.7311
+"396312","United Arab Emirates","ARE","Number of infant deaths","SH.DTH.IMRT",616,427.4827,433.5423,436.7311
+"396373","United Arab Emirates","ARE","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",64.29012818,427.4827,433.5423,436.7311
+"396562","United Arab Emirates","ARE","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",3.8,427.4827,433.5423,436.7311
+"396629","United Arab Emirates","ARE","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",44.796217979725,427.4827,433.5423,436.7311
+"396742","United Arab Emirates","ARE","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",2.9,427.4827,433.5423,436.7311
+"397413","United Kingdom","GBR","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",2705252231411.39,492.4785,497.9719,509.2215
+"397594","United Kingdom","GBR","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,492.4785,497.9719,509.2215
+"397644","United Kingdom","GBR","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.7000007629395,492.4785,497.9719,509.2215
+"397661","United Kingdom","GBR","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,492.4785,497.9719,509.2215
+"397670","United Kingdom","GBR","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",81.6048780487805,492.4785,497.9719,509.2215
+"397745","United Kingdom","GBR","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.86660450872726,492.4785,497.9719,509.2215
+"397887","United Kingdom","GBR","Number of infant deaths","SH.DTH.IMRT",2977,492.4785,497.9719,509.2215
+"397948","United Kingdom","GBR","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",12.41225066,492.4785,497.9719,509.2215
+"398137","United Kingdom","GBR","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,492.4785,497.9719,509.2215
+"398204","United Kingdom","GBR","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",82.9377983449606,492.4785,497.9719,509.2215
+"398317","United Kingdom","GBR","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",8.5,492.4785,497.9719,509.2215
+"398988","United States","USA","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",16640387258901.1,469.6285,496.9351,496.2424
+"399169","United States","USA","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",4.9,469.6285,496.9351,496.2424
+"399219","United States","USA","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",62.5999984741211,469.6285,496.9351,496.2424
+"399236","United States","USA","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,469.6285,496.9351,496.2424
+"399245","United States","USA","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",78.7414634146342,469.6285,496.9351,496.2424
+"399320","United States","USA","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",3.28910681444451,469.6285,496.9351,496.2424
+"399462","United States","USA","Number of infant deaths","SH.DTH.IMRT",22726,469.6285,496.9351,496.2424
+"399523","United States","USA","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",8.441199408,469.6285,496.9351,496.2424
+"399712","United States","USA","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,469.6285,496.9351,496.2424
+"399779","United States","USA","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",81.5903173160136,469.6285,496.9351,496.2424
+"399892","United States","USA","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",14.3,469.6285,496.9351,496.2424
+"400563","Uruguay","URY","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",47559277174.2884,417.9919,436.5721,435.363
+"400744","Uruguay","URY","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",8.4,417.9919,436.5721,435.363
+"400794","Uruguay","URY","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",64.9000015258789,417.9919,436.5721,435.363
+"400811","Uruguay","URY","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,417.9919,436.5721,435.363
+"400820","Uruguay","URY","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",77.1316341463415,417.9919,436.5721,435.363
+"400895","Uruguay","URY","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",1.82058813670797,417.9919,436.5721,435.363
+"401037","Uruguay","URY","Number of infant deaths","SH.DTH.IMRT",389,417.9919,436.5721,435.363
+"401098","Uruguay","URY","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",11.48844431,417.9919,436.5721,435.363
+"401287","Uruguay","URY","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",2.5,417.9919,436.5721,435.363
+"401354","Uruguay","URY","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",74.1604139576164,417.9919,436.5721,435.363
+"401467","Uruguay","URY","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",17,417.9919,436.5721,435.363
+"406863","Vietnam","VNM","GDP (constant 2010 US$)","NY.GDP.MKTP.KD",154508616051.562,494.5183,486.7738,524.6445
+"407044","Vietnam","VNM","Intentional homicides (per 100,000 people)","VC.IHR.PSRC.P5",NA,494.5183,486.7738,524.6445
+"407094","Vietnam","VNM","Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",77.4000015258789,494.5183,486.7738,524.6445
+"407111","Vietnam","VNM","Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)","SG.LAW.NODC.HR",1,494.5183,486.7738,524.6445
+"407120","Vietnam","VNM","Life expectancy at birth, total (years)","SP.DYN.LE00.IN",75.8911951219512,494.5183,486.7738,524.6445
+"407195","Vietnam","VNM","Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",2.3611556974687,494.5183,486.7738,524.6445
+"407337","Vietnam","VNM","Number of infant deaths","SH.DTH.IMRT",27777,494.5183,486.7738,524.6445
+"407398","Vietnam","VNM","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","EN.ATM.PM25.MC.M3",28.2516555,494.5183,486.7738,524.6445
+"407587","Vietnam","VNM","Prevalence of undernourishment (% of population)","SN.ITK.DEFC.ZS",10.7,494.5183,486.7738,524.6445
+"407654","Vietnam","VNM","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",87.4549406703102,494.5183,486.7738,524.6445
+"407767","Vietnam","VNM","Suicide mortality rate (per 100,000 population)","SH.STA.SUIC.P5",7.4,494.5183,486.7738,524.6445
