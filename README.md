@@ -1,5 +1,7 @@
 # World-Development-and-Education-Correlations
 
+https://rabex028.shinyapps.io/educationcorrelations/
+
 ## Welcome
 
 The purpose of this application is to allow users to interactively explore associations between reading, science, and math scores and how they correspond to various indicators of development within a country. Users can adjust education scores for a hypothetical country and predictions will be made about that country's GDP, labor force participation, military expenditure, and other metrics of development. Predictions are made by using multiple regression models that rely mostly on gamma distributions. If you would like more information on the regression models, please view the Diagnostics tab located at the top of the app's screen.
@@ -11,7 +13,7 @@ The data used for this project is compiled from 68 Countries from the year 2015.
 
 These datasets were paired and trimmed to include only data from the year 2015, and only country development information for GDP, homicide rates, labor force participation, life expectancy, military expenditure, number of infant deaths, exposure to air pollution, nondiscriminatory hiring based on gender, undernourishment prevalence, female labor force proportion, and suicide incidence. Each of these development factors are also numeric within the dataset, although the values can represent categorical, percentage, and continuous count information. There are some missing entries for these indicators which will be discussed in the next section.
 
-## How to Use this Application (Link available in repository description)
+## How to Use this Application
 
 You can switch to a different section of the app by clicking on the tabs at the top of the page. User predictions can be made within the predictions tab. The desired scores can be chosen by moving the sliders located on the left-hand side of the predictions page.
 
