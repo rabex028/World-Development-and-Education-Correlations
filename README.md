@@ -14,7 +14,9 @@ These datasets were paired and trimmed to include only data from the year 2015, 
 ## How to Use this Application (Link available in repository description)
 
 You can switch to a different section of the app by clicking on the tabs at the top of the page. User predictions can be made within the predictions tab. The desired scores can be chosen by moving the sliders located on the left-hand side of the predictions page.
+
 ![Screenshot](public/score-menu.png)
+
 Predictions will be updated on the right side of the page based on the new combination of scores. On the bottom of the page, a density plot displays the distribution of actual values for a particular indicator that was observed from the 68 countries. The density plot can be changed to show information for any indicator by selecting the desired indicator from the drop-down menu on the left side of the page. In addition, lines can be shown on the plot that indicate where the mean and new predicted value would appear in the actual distribution. This option can be disabled by checking the box on the left side of the page. Note that the predicted value line may not appear on the plot if its value is greater or less than what is observed in the actual distribution.
 
 ![Screenshot](public/density.png)
