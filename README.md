@@ -1,6 +1,6 @@
 # World-Development-and-Education-Correlations
 
-https://rabex028.shinyapps.io/educationcorrelations/
+Running instance available at https://rabex028.shinyapps.io/educationcorrelations/
 
 ## Welcome
 
